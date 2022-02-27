@@ -16,6 +16,10 @@ public class Viki {
 		System.out.println("Enter the Distance(m) Viki has to travel :");
 		try {
 			double distance = s.nextDouble();
+			if (distance <= 0) {
+				System.out.println("Distance must be a plus value.");
+				return;
+			}
 			jump(distance);
 		} catch (InputMismatchException e) {
 			System.out.println("Invalid Number Input.");
