@@ -1,6 +1,10 @@
 # Missing Number finder
 
-Missing Number finder is an application intended to find the missing number in a given unsorted number series.
+## Write a program to find the missing number of the given **n, n + 1, n + 2 ...** sequence.
+### Rules
+- Input numbers must be sepatated by a delimiter
+- Assume the input number series is unsorted.
+- If there is more than one missing number, it's an invalid series and the user must be informed.
 
 ### Example
 
@@ -21,4 +25,7 @@ If the number series contains more than one missing number, then the number seri
 ### Invalid inputs by the user
 if the user in put does not follow the **[Number][Space][Number]...** pattern, the user is informed that all numbers should be separated by a Space delimiter.
 
-![Example](https://i.ibb.co/16MNmKs/1.png)
+![image](https://user-images.githubusercontent.com/79735111/156928602-bd8496e7-25ab-469c-8900-a1b3f00629b8.png)
+
+### Test Results
+![image](https://user-images.githubusercontent.com/79735111/156928506-f903d897-815a-40d7-baea-04e2d9d12adf.png)
