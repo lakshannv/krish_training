@@ -21,4 +21,4 @@ If the number series contains more than one missing number, then the number seri
 ### Invalid inputs by the user
 if the user in put does not follow the **[Number][Space][Number]...** pattern, the user is informed that all numbers should be separated by a Space delimiter.
 
-![Example](https://i.ibb.co/WFpSv0T/1.png)
+![Example](https://i.ibb.co/16MNmKs/1.png)
