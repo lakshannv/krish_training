@@ -23,7 +23,7 @@ If the number series contains more than one missing number, then the number seri
 ![Example](https://i.ibb.co/kXZMqQv/1.png)
 
 ### Invalid inputs by the user
-if the user in put does not follow the **[Number][Space][Number]...** pattern, the user is informed that all numbers should be separated by a Space delimiter.
+if the user input does not follow the **[Number][Space][Number]...** pattern, the user is informed that all numbers should be separated by a Space delimiter.
 
 ![image](https://user-images.githubusercontent.com/79735111/156928602-bd8496e7-25ab-469c-8900-a1b3f00629b8.png)
 
